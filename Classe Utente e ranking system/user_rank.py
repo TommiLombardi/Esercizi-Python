@@ -34,3 +34,7 @@ class User:
                 self.rank = 8
             self.progress = self.progress % 100
         # questo codice non supera tutti  i test, ma l'obiettivo accademico è stato raggiunto :) 
+
+        # variabili di classe
+        # raise
+        # dict comprehension con if else multipli
